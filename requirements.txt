@@ -1,0 +1,12 @@
+numpy
+pandas
+pyarrow
+scikit-learn
+fairlearn
+sentence-transformers
+matplotlib
+pyyaml
+scipy
+jupyter
+pytest
+tabulate
